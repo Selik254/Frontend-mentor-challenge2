@@ -1,2 +1,3 @@
 # Frontend-mentor-challenge2
-Frontend Mentor Challenge
+USED  CSS FLEXBOX AND GRID LAYOUTS
+USED HTML DIV CONTAINERS
